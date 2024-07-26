@@ -1,7 +1,7 @@
 {
     "host": "localhost",
     "port": 5432,
-    "database": "hotel_db",
-    "user": "admin",
-    "password": "admin"
+    "database": "",
+    "user": "",
+    "password": ""
 }
