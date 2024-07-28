@@ -1,4 +1,4 @@
-# Hotel Management System
+# Hotel Application Back End
 
 Backend developed with Node JS to provide data to the Front End
 
@@ -12,8 +12,8 @@ Backend developed with Node JS to provide data to the Front End
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/hotel-management-system.git
-cd hotel-management-system
+git clone https://github.com/miraz-ezaz/NodeJS-React-Assignment-BackEnd.git
+cd NodeJS-React-Assignment-BackEnd
 ```
 
 
@@ -169,10 +169,3 @@ hotel-management-system/
 
 - Ensure PostgreSQL is running and the database credentials in the `config.json` file are correct.
 - The image files should be placed in the `images` folder in the root directory of the project.
-
-Feel free to modify this README file to suit your specific needs and provide additional details as necessary.
-
-```
-
-You can copy the above content into a file named `README.md` and use it for your project.
-```
