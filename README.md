@@ -1,4 +1,3 @@
-````markdown
 # Hotel Management System
 
 Backend developed with Node JS to provide data to the Front End
@@ -16,7 +15,7 @@ Backend developed with Node JS to provide data to the Front End
 git clone https://github.com/yourusername/hotel-management-system.git
 cd hotel-management-system
 ```
-````
+
 
 ### Install Dependencies
 
