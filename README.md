@@ -16,7 +16,6 @@ git clone https://github.com/miraz-ezaz/NodeJS-React-Assignment-BackEnd.git
 cd NodeJS-React-Assignment-BackEnd
 ```
 
-
 ### Install Dependencies
 
 ```bash
@@ -104,7 +103,8 @@ INSERT INTO hotels (
         "hobby": "Editing Videos",
         "response_rate": "100%",
         "response_time": "An Hour",
-        "co_hosts": ["Percy", "Raul"]
+        "co_hosts": ["Percy", "Raul"],
+        "image": "/images/host_Fernando.jpg"
     }',
     'Lima, Peru',
     -12.0464,
@@ -136,16 +136,16 @@ The backend server should now be running on `http://localhost:3000`.
 - **Get Hotel Details by Slug:**
 
   ```http
-  GET /api/hotel/:slug
+  GET /hotel/:slug
   ```
 
-  Example: `http://localhost:3000/api/hotel/apt-pueblo-libre`
+  Example: `http://localhost:3000/hotel/apt-pueblo-libre`
 
 - **Get Room Details by Hotel Slug:**
   ```http
-  GET /api/hotel/:slug/rooms
+  GET /hotel/:slug/rooms
   ```
-  Example: `http://localhost:3000/api/hotel/apt-pueblo-libre/rooms`
+  Example: `http://localhost:3000/hotel/apt-pueblo-libre/rooms`
 
 ### Directory Structure
 
