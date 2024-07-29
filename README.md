@@ -1,4 +1,4 @@
-# Hotel Application Back End
+# NodeJS-React-Assignment-BackEnd
 
 Backend developed with Node JS to provide data to the Front End
 
